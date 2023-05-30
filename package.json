@@ -30,7 +30,7 @@
   },
   "scripts": {
     "test": "jest",
-    "coveraje": "jest --coverage",
+    "coverage": "jest --coverage",
     "start": "webpack serve --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
     "lint": "eslint .",
