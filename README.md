@@ -1,2 +1,2 @@
 # AJSB
-![CI](https://github.com/andrk189100/env/actions/workflows/web.yml/badge.svg)
+[![Netology AHJ](https://github.com/AndrK189100/env/actions/workflows/web.yaml/badge.svg)](https://github.com/AndrK189100/env/actions/workflows/web.yaml)
